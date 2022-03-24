@@ -107,7 +107,7 @@ new LoggerConfiguration()
 ## How to use this repo
 
  - Install .NET6 SDK
- - `git clone --recursive git@github.com:KevinGliewe/Anotar.Serilog.Issue.git`
+ - `git clone --recurse-submodules git@github.com:KevinGliewe/Anotar.Serilog.Issue.git`
  - `cd Anotar.Serilog.Issue`
  - `dotnet run --project src\Anotar.Serilog.Issue`
  - Watch and see... 👀
