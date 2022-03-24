@@ -1,0 +1,3 @@
+[submodule "serilog-settings-configuration"]
+	path = src/serilog-settings-configuration
+	url = git@github.com:serilog/serilog-settings-configuration.git

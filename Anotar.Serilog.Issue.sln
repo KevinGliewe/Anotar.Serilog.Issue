@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anotar.Serilog.Issue", "src\Anotar.Serilog.Issue.\Anotar.Serilog.Issue.csproj", "{3B644699-0A7B-4D58-BCF0-8F5AC922B85A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilog.Settings.Configuration", "src\serilog-settings-configuration\src\Serilog.Settings.Configuration\Serilog.Settings.Configuration.csproj", "{72920F79-1A63-49BA-A92B-E864825EDEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B644699-0A7B-4D58-BCF0-8F5AC922B85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B644699-0A7B-4D58-BCF0-8F5AC922B85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B644699-0A7B-4D58-BCF0-8F5AC922B85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B644699-0A7B-4D58-BCF0-8F5AC922B85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72920F79-1A63-49BA-A92B-E864825EDEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72920F79-1A63-49BA-A92B-E864825EDEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72920F79-1A63-49BA-A92B-E864825EDEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72920F79-1A63-49BA-A92B-E864825EDEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5B1D9A-374D-4CE6-8809-12BA1ADFC32C}
+	EndGlobalSection
+EndGlobal
