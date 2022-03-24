@@ -104,6 +104,11 @@ new LoggerConfiguration()
 </Weavers>
 ```
 
+## Issues
+
+ - [https://github.com/serilog/serilog-settings-configuration/issues/303](https://github.com/serilog/serilog-settings-configuration/issues/303)
+ - [https://github.com/Fody/Anotar/issues/656](https://github.com/Fody/Anotar/issues/656)
+
 ## How to use this repo
 
  - Install .NET6 SDK
