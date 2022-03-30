@@ -1,5 +1,7 @@
 # Issue with [Anotar](https://github.com/Fody/Anotar)
 
+> 💡 This issue has been resolved! Check out this comment for more informations: https://github.com/serilog/serilog-settings-configuration/issues/303#issuecomment-1078122519
+
 When configuring [Serilog](https://github.com/serilog/serilog) with [IConfiguration](https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-6.0) an exception like this will be thrown:
 
 ```text
